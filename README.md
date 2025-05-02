@@ -39,7 +39,7 @@ Follow these steps to set up and run the project:
    - Clone this repo using:
 
      ```bash
-     git clone https://github.com/your-username/qr-code-generator.git
+     git clone https://github.com/Aryaan-Dev/qr-code-generator.git
      ```
 
    - Or download the ZIP file and extract it.
